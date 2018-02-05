@@ -1,25 +1,9 @@
-# The Official raywenderlich.com Java Style Guide
+# The Official ParsiTab Java Style Guide
 
 This style guide is different from other you may see, because the focus is
-centered on readability for print and the web. We created this style guide to
-keep the code in our tutorials consistent.
+centered on readability for print and the web.
 
 Our overarching goals are __conciseness__, __readability__ and __simplicity__.
-
-You should also check out out [Swift](https://github.com/raywenderlich/swift-style-guide)
-and [Objective-C](https://github.com/raywenderlich/objective-c-style-guide)
-style guides too.
-
-## Inspiration
-
-This style-guide is somewhat of a mash-up between the existing Java language
-style guides, and a tutorial-readability focused Swift style-guide. The language
-guidance is drawn from the
-[Android contributors style guide](https://source.android.com/source/code-style.html)
-and the
-[Google Java Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html).
-Alterations to support additional readability in tutorials were inspired by the
-[raywenderlich.com Swift style guide](https://github.com/raywenderlich/swift-style-guide).
 
 ## Android Studio Coding Style
 
